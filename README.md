@@ -6,7 +6,7 @@ A beginner-friendly Python project that demonstrates how to generate custom QR c
 
 ## 📸 Preview
 
-Below is the QR code generated for the GitHub profile link `https://github.com/milaan9`:
+Below is the QR code generated for the GitHub profile link `(https://github.com/HarshSaoji)`:
 
 <img src="githubID.png" alt="QR Code" width="200"/>
 
