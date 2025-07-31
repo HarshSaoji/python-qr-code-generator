@@ -1,6 +1,7 @@
-# 🔳 Python QR Code Generator
+🔳 **Python QR Code Generator**
 
-A beginner-friendly Python project that demonstrates how to generate custom QR codes using the `pyqrcode` and `pypng` libraries. This project includes a detailed Jupyter Notebook that walks you through each step—from importing the library to generating and saving the QR code as a `.png` image.
+This beginner-friendly Python project showcases how to generate customized QR codes using the `pyqrcode` and `pypng` libraries. It includes a step-by-step Jupyter Notebook, guiding users through importing libraries, creating QR codes, and saving them as `.png` images. Ideal for those new to Python, this project offers a hands-on introduction to working with external libraries and basic image generation. A perfect mini-project to understand data encoding visually and expand Python programming skills effectively.
+
 
 ---
 
